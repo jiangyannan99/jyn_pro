@@ -1,2 +1,2 @@
 # jyn_pro
-cout>>"Hello world" ;
+// printf (cycle);
